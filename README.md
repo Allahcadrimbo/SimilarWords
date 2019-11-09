@@ -1,5 +1,6 @@
 # SimilarWords
-PA #4 NLP CS 4242
+PA #4 NLP CS 4242\
+Pang-Lee-PA4.zip contains data that can be used for this program. The data is from Bo Pang and Lillian Lee.
 
 ## Description
 In this PA we will be processing a directory of files to create a term x document matrix where each cell is a tf-idf
